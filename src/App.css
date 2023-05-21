@@ -1,0 +1,14 @@
+body{
+ margin: 0;
+ padding: 0;
+ font-family: sans-serif;
+ background: #34495e;
+ box-sizing: border-box;
+}
+
+.map_component{
+ width: 90%;
+ border-radius: 50px;
+ margin:1rem auto
+
+}
