@@ -1,4 +1,3 @@
-import Map from './components/map'
 import MapForm from './components/map_form'
 
 function App() {
